@@ -1,0 +1,5 @@
+torch
+snntorch
+pandas
+numpy
+scikit-learn
